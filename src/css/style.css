@@ -28,6 +28,11 @@
  *    17.  Switcher    *
  ======================*/
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700|Roboto&display=swap');
+
+body {
+  height: 100%;
+}
+
 h1 {
   font-size: 42px !important;
 }
